@@ -11,6 +11,6 @@
 <div align="center">
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nt-games-ytb&show_icons=true&hide_border=true"/>
   <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt-games-ytb"/>
-  <img height="200" src="https://github-profile-trophy.vercel.app/?username=vincent-coding&theme=discord&no-frame=true&column=4" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-coding&theme=gotham&langs_count=6&layout=compact" />
+  <img height="200" src="https://github-profile-trophy.vercel.app/?username=nt-games-ytb&theme=discord&no-frame=true&column=4" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt-games-ytb&theme=gotham&langs_count=6&layout=compact" />
 </div>
