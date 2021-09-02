@@ -8,7 +8,7 @@
 - **Instagram**: https://www.instagram.com/nicolas__tr/ 
 - **Portfolio**: https://nt-games-ytb.github.io/profile/
 
-<div align="center">
+<div align="start">
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nt-games-ytb&show_icons=true&theme=gotham"/>
   <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt-games-ytb&theme=gotham&langs_count=12&layout=compact"/>
 </div>
