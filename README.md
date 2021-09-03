@@ -6,7 +6,7 @@
 - **Discord account**: nt games#0375 and nt games#2719 
 - **Discord server**: https://discord.com/invite/nk22HmUDJC 
 - **Instagram**: https://www.instagram.com/nicolas__tr/ 
-- **Portfolio**: https://nt-games-ytb.github.io/profile/
+- **Portfolio**: https://github.com/nt-games-ytb?tab=repositories
 
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nt-games-ytb&show_icons=true&theme=gotham"/>
