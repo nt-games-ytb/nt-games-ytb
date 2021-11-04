@@ -3,7 +3,7 @@
 ### I'm a young french developper and a small youtuber 
 
 <p align='centre'>
-  <a href="ttps://www.youtube.com/c/nt-games-ytb">Youtube</a> |
+  <a href="https://www.youtube.com/c/nt-games-ytb">Youtube</a> |
   <a href="http://nt-games-site.000webhostapp.com/">Website</a> |
   <a href="https://discord.com/invite/nk22HmUDJC">Discord</a> |
   <a href="https://www.instagram.com/nicolas__tr/ ">Instagram</a>
