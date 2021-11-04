@@ -13,11 +13,14 @@
 <p align="centre">
   Discord :<br>
   <img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432">
-  <br>
   <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537">
 </p>
 
 <p align="center">
+  Discord :<br>
+  <img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432">
+  <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537">
+  <br>
   Github statistics :<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nt-games-ytb&theme=dark&hide_border=true">
   <br>
