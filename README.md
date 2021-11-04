@@ -13,6 +13,7 @@
 <p align="centre">
   Discord :<br>
   <img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432">
+  <br>
   <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537">
 </p>
 
