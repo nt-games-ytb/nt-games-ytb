@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/nicolas__tr/ ">Instagram</a>
 </p>
 
-<p align="centre"><br>
+<p align="centre">Discord :<br>
   <a href="https://github.com/nt-games-ytb">
     <img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432"/>
     <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537"/>
