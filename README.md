@@ -10,10 +10,12 @@
   <a href="https://www.instagram.com/nicolas__tr/ ">Instagram</a>
 </p>
 
+---
+
 <p align="centre">
   Discord :<br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432"><br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537"><br>
+  <img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432">
+  <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537">
 </p>
 
 <p align="center">
@@ -24,7 +26,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt-games-ytb&layout=compact&count_private=true&langs_count=12&hide_border=true&theme=dark">
 </p>
-
 
 ---  
 
