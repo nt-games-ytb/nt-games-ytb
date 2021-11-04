@@ -15,3 +15,10 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537"/>
   </a>
 </p>
+
+---  
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/nt-games-ytb/count.svg" />
+</p>
