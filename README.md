@@ -17,9 +17,9 @@
   Github statistics :<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nt-games-ytb&theme=dark&hide_border=true">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nt-games-ytb&include_all_commits=true&show_icons=true&hide_border=true&radius_border=6&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=nt-games-ytb&include_all_commits=true&show_icons=true&hide_border=true&border_radius=6&count_private=true&theme=dark">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt-games-ytb&layout=compact&count_private=true&langs_count=16&radius_border=6&hide_border=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt-games-ytb&layout=compact&count_private=true&langs_count=16&border_radius=6&hide_border=true&theme=dark">
 </p>
 
 ---  
